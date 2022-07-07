@@ -1,0 +1,9 @@
+{
+	"name": "DemoGitIntegration",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "a4db14f2-ddb3-4720-a48e-1a6de03b5fea",
+		"tenantId": "c1eb5112-7946-4c9d-bc57-40040cfe3a91"
+	}
+}
